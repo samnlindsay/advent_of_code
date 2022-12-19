@@ -1,3 +1,17 @@
+# Advent of Code
+Input data and solutions (in Jupyter notebook form, with links to the original problem).
+
+
+## Lessons learned
+
+When I attempted my first [Advent of Code](https://adventofcode.com/) in 2020 it was as a way of practising my python skills and learning by solving a different style of problem to my day-to-day work. Through lots of googling and help from Stack Overflow, this helped me:
+- discover new techniques
+- learn more about algorithms
+- discover libraries and features of python I wasn't aware of
+- identify performance bottlenecks and more code- and time-efficient solutions
+
+Some of these are documented here for posterity:
+
 - **list/dict comprehensions**
   - `squares_list = [x**2 for x in range(10)]`
   - `squares_dict = {x:x**2 for x in range(10)}`
